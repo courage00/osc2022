@@ -7,4 +7,3 @@ This repository is homework submission for students
 - GitHub account name :courage00
 - Student ID :30952055
 
-## Happy Coding ~
